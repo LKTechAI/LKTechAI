@@ -3,13 +3,10 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Khetawat</h1>
 <h3 align="center">🚀 AI + IoT Innovator | 💻 Frontend Developer | 🎯 Hackathon Enthusiast</h3>
 
-<<p align="center">
-  <!-- Pick ONE of the GIF URLs below and keep only that <img> tag -->
-
-  <!-- Professional dev at laptop -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZtZ2I4MzE2b2JqNmhiM2s2cTZzY2JjMHJteG1zNG9yY2h3a3o3bCZjdD1n/qB4E0A1Lk3lRZQmV0h/giphy.gif" width="600" alt="Coder Girl Animation"/>
-
+<p align="center">
+  <img src="C:\Users\Lakshmi Khetawat\Downloads\Lakshmi Khetawat.jpg"/>
 </p>
+
 
 
 
