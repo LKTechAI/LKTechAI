@@ -2,9 +2,48 @@
 
 <h1 align="center">Hi 👋, I'm Lakshmi Khetawat</h1>
 <h3 align="center">🚀 AI + IoT Innovator | 💻 Frontend Developer | 🎯 Hackathon Enthusiast</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/Y3xA87tPrYy8A/giphy.gif" width="600" alt="Futuristic Tech"/>
-</p>
+<!-- Coder Girl – framed GIF with badge & caption -->
+<div style="
+  display:grid;place-items:center;padding:24px;background:#0b0f17;
+  background: radial-gradient(1200px 600px at 50% -200px,#1b2433 0,#0b0f17 60%);
+  min-height: 60vh; color:#e7ecf3; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, Noto Sans, 'Apple Color Emoji','Segoe UI Emoji';
+">
+  <figure style="
+    position:relative; margin:0; border-radius:20px; overflow:hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,.45), inset 0 0 0 1px rgba(255,255,255,.06);
+    max-width: 760px; width: min(92vw,760px);
+    background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,0));
+  ">
+    <!-- Your original GIF -->
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+         alt="Coder Girl coding animation"
+         style="display:block; width:100%; height:auto;">
+
+    <!-- 👩‍💻 badge -->
+    <div style="
+      position:absolute; top:14px; left:14px; padding:8px 12px; font-weight:700;
+      border-radius:999px; backdrop-filter: blur(8px);
+      background: rgba(255, 192, 203, 0.18);
+      border: 1px solid rgba(255,255,255,.25);
+      display:flex; align-items:center; gap:8px; letter-spacing:.3px;
+    ">
+      <span aria-hidden="true" style="font-size:18px">👩‍💻</span>
+      <span>Coder Girl</span>
+    </div>
+
+    <!-- subtle gradient edge -->
+    <div style="
+      position:absolute; inset:0; pointer-events:none;
+      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,0) 20%, rgba(0,0,0,.25) 100%);
+    "></div>
+  </figure>
+
+  <!-- Caption -->
+  <figcaption style="margin-top:14px; opacity:.9; font-size:14px">
+    Building, debugging, and shipping like a pro.
+  </figcaption>
+</div>
+
 
 
 
