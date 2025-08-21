@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Lakshmi Khetawat</h1>
 <h3 align="center">🚀 AI + IoT Innovator | 💻 Frontend Developer | 🎯 Hackathon Enthusiast</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Tech Animation"/>
+  <img src="https://media.giphy.com/media/26Ff4EUHxHXO2zquA/giphy.gif" width="600" alt="MacBook Work Setup"/>
 </p>
+
 
 
 <p align="center">
