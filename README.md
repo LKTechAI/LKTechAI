@@ -4,8 +4,9 @@
 <h3 align="center">🚀 AI + IoT Innovator | 💻 Frontend Developer | 🎯 Hackathon Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackathon%20Participant-🏆-orange?style=for-the-badge" />
