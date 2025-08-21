@@ -2,48 +2,66 @@
 
 <h1 align="center">Hi 👋, I'm Lakshmi Khetawat</h1>
 <h3 align="center">🚀 AI + IoT Innovator | 💻 Frontend Developer | 🎯 Hackathon Enthusiast</h3>
-<!-- Coder Girl – framed GIF with badge & caption -->
-<div style="
-  display:grid;place-items:center;padding:24px;background:#0b0f17;
-  background: radial-gradient(1200px 600px at 50% -200px,#1b2433 0,#0b0f17 60%);
-  min-height: 60vh; color:#e7ecf3; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, Noto Sans, 'Apple Color Emoji','Segoe UI Emoji';
-">
-  <figure style="
-    position:relative; margin:0; border-radius:20px; overflow:hidden;
-    box-shadow: 0 10px 30px rgba(0,0,0,.45), inset 0 0 0 1px rgba(255,255,255,.06);
-    max-width: 760px; width: min(92vw,760px);
-    background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,0));
-  ">
-    <!-- Your original GIF -->
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-         alt="Coder Girl coding animation"
-         style="display:block; width:100%; height:auto;">
 
-    <!-- 👩‍💻 badge -->
-    <div style="
-      position:absolute; top:14px; left:14px; padding:8px 12px; font-weight:700;
-      border-radius:999px; backdrop-filter: blur(8px);
-      background: rgba(255, 192, 203, 0.18);
-      border: 1px solid rgba(255,255,255,.25);
-      display:flex; align-items:center; gap:8px; letter-spacing:.3px;
-    ">
-      <span aria-hidden="true" style="font-size:18px">👩‍💻</span>
-      <span>Coder Girl</span>
-    </div>
+<p align="center">
+  <svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Coder Girl Banner">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="100%" stop-color="#111827"/>
+      </linearGradient>
+      <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="rgba(255,255,255,0.20)"/>
+        <stop offset="100%" stop-color="rgba(255,255,255,0.08)"/>
+      </linearGradient>
+      <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+        <feGaussianBlur stdDeviation="8"/>
+      </filter>
+      <style>
+        .title { font: 700 28px ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto; fill:#fff; }
+        .tag   { font: 500 16px ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto; fill:#cbd5e1; }
+        .code  { font: 600 14px ui-monospace,Menlo,Consolas,monospace; fill:#e5e7eb; }
+        @keyframes blink { 50% { opacity: 0; } }
+        .cursor { animation: blink 1s steps(1,end) infinite; }
+        .soft   { opacity:.25 }
+      </style>
+    </defs>
 
-    <!-- subtle gradient edge -->
-    <div style="
-      position:absolute; inset:0; pointer-events:none;
-      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,0) 20%, rgba(0,0,0,.25) 100%);
-    "></div>
-  </figure>
+    <!-- Background -->
+    <rect width="900" height="280" fill="url(#bg)"/>
+    <!-- Frosted glass pill -->
+    <g filter="url(#blur)" class="soft">
+      <rect x="40" y="30" rx="24" ry="24" width="820" height="220" fill="#94a3b8"/>
+    </g>
+    <rect x="40" y="30" rx="24" ry="24" width="820" height="220" fill="url(#glass)" stroke="rgba(255,255,255,.2)"/>
 
-  <!-- Caption -->
-  <figcaption style="margin-top:14px; opacity:.9; font-size:14px">
-    Building, debugging, and shipping like a pro.
-  </figcaption>
-</div>
+    <!-- Text -->
+    <text x="60" y="80" class="title">Hi 👋, I'm Lakshmi Khetawat</text>
+    <text x="60" y="110" class="tag">🚀 AI + IoT Innovator  ·  💻 Frontend Developer  ·  🎯 Hackathon Enthusiast</text>
 
+    <!-- Minimal "girl coder" illustration (vector) -->
+    <!-- Hair -->
+    <path d="M595 106c-22 0-44 16-48 38-6 33 14 66 56 66s68-24 64-58c-4-29-27-46-53-46z" fill="#1f2937"/>
+    <!-- Face -->
+    <ellipse cx="610" cy="152" rx="26" ry="30" fill="#f1c7a8"/>
+    <!-- Glasses -->
+    <circle cx="598" cy="152" r="13" fill="none" stroke="#0ea5e9" stroke-width="3"/>
+    <circle cx="622" cy="152" r="13" fill="none" stroke="#0ea5e9" stroke-width="3"/>
+    <rect x="611" y="150" width="8" height="2" fill="#0ea5e9"/>
+    <!-- Hoodie -->
+    <path d="M575 188c14-10 64-10 78 0 14 10 22 30 24 42H551c2-12 10-32 24-42z" fill="#0b1220"/>
+    <!-- Laptop -->
+    <rect x="520" y="200" width="220" height="48" rx="6" fill="#0f172a" stroke="#1f2937"/>
+    <rect x="540" y="176" width="180" height="38" rx="6" fill="#0b1220" stroke="#1f2937"/>
+    <!-- Code lines -->
+    <text x="552" y="195" class="code">&lt;div class="ai-iot"&gt; hello_world();</text>
+    <!-- Blinking cursor -->
+    <rect x="785" y="182" width="3" height="20" class="cursor" fill="#22d3ee"/>
+
+    <!-- Subtle desk line -->
+    <rect x="40" y="230" width="820" height="1" fill="rgba(148,163,184,.35)"/>
+  </svg>
+</p>
 
 
 
