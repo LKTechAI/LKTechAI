@@ -4,7 +4,7 @@
 <h3 align="center">🚀 AI + IoT Innovator | 💻 Frontend Developer | 🎯 Hackathon Enthusiast</h3>
 
 <p align="center">
-  <img src="C:\Users\Lakshmi Khetawat\Downloads\Lakshmi Khetawat.jpg"/>
+  <img src="[C:\Users\Lakshmi Khetawat\Downloads\Lakshmi Khetawat.jp](https://photos.peopleimages.com/picture/202407/3065223-interior-design-office-and-laptop-on-table-with-cup-sunset-glow-or-corporate-aesthetic-late-work-technology-or-coffee-in-workspace-for-productivity-international-communication-or-business-online-zoom_90.jpg"/>
 </p>
 
 
